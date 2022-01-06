@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculatorUI", "GPACalculatorUI\GPACalculatorUI.csproj", "{007BB902-8EF2-4962-97BF-049DD6323E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculator.Models", "GPACalculator.Models\GPACalculator.Models.csproj", "{AD0DB8E4-A404-4768-8A69-96046E328420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculator.Commons", "GPACalculator.Commons\GPACalculator.Commons.csproj", "{8ECE01FC-4CE7-4BDD-AF48-8B7EDE474F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculator.Services", "GPACalculator.CoreLogic\GPACalculator.Services.csproj", "{E8150437-D02D-4B10-B1BE-A75D701E1ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculator.Data", "GPACalculator.Data\GPACalculator.Data.csproj", "{E9674A4F-5802-4F7A-B314-D10E3A0683C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007BB902-8EF2-4962-97BF-049DD6323E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007BB902-8EF2-4962-97BF-049DD6323E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007BB902-8EF2-4962-97BF-049DD6323E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007BB902-8EF2-4962-97BF-049DD6323E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0DB8E4-A404-4768-8A69-96046E328420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0DB8E4-A404-4768-8A69-96046E328420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0DB8E4-A404-4768-8A69-96046E328420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0DB8E4-A404-4768-8A69-96046E328420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECE01FC-4CE7-4BDD-AF48-8B7EDE474F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECE01FC-4CE7-4BDD-AF48-8B7EDE474F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECE01FC-4CE7-4BDD-AF48-8B7EDE474F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECE01FC-4CE7-4BDD-AF48-8B7EDE474F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8150437-D02D-4B10-B1BE-A75D701E1ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8150437-D02D-4B10-B1BE-A75D701E1ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8150437-D02D-4B10-B1BE-A75D701E1ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8150437-D02D-4B10-B1BE-A75D701E1ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9674A4F-5802-4F7A-B314-D10E3A0683C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9674A4F-5802-4F7A-B314-D10E3A0683C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9674A4F-5802-4F7A-B314-D10E3A0683C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9674A4F-5802-4F7A-B314-D10E3A0683C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E87C8D-23B5-41CD-9075-A7BA62F44C01}
+	EndGlobalSection
+EndGlobal

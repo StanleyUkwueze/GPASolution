@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GPACalculator.Commons/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/GPACalculator.Commons.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GPACalculator.Commons.dll": {}
+        }
+      },
+      "GPACalculator.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GPACalculator.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GPACalculator.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GPACalculator.Data.dll": {}
+        }
+      },
+      "GPACalculator.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GPACalculator.Commons": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GPACalculator.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GPACalculator.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPACalculator.Commons/1.0.0": {
+      "type": "project",
+      "path": "../GPACalculator.Commons/GPACalculator.Commons.csproj",
+      "msbuildProject": "../GPACalculator.Commons/GPACalculator.Commons.csproj"
+    },
+    "GPACalculator.Data/1.0.0": {
+      "type": "project",
+      "path": "../GPACalculator.Data/GPACalculator.Data.csproj",
+      "msbuildProject": "../GPACalculator.Data/GPACalculator.Data.csproj"
+    },
+    "GPACalculator.Models/1.0.0": {
+      "type": "project",
+      "path": "../GPACalculator.Models/GPACalculator.Models.csproj",
+      "msbuildProject": "../GPACalculator.Models/GPACalculator.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "GPACalculator.Data >= 1.0.0",
+      "GPACalculator.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\decag\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.CoreLogic\\GPACalculator.Services.csproj",
+      "projectName": "GPACalculator.Services",
+      "projectPath": "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.CoreLogic\\GPACalculator.Services.csproj",
+      "packagesPath": "C:\\Users\\decag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.CoreLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\decag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.Data\\GPACalculator.Data.csproj": {
+              "projectPath": "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.Data\\GPACalculator.Data.csproj"
+            },
+            "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.Models\\GPACalculator.Models.csproj": {
+              "projectPath": "C:\\Users\\decag\\Downloads\\GPACalculator\\GPACalculator\\GPACalculator.Models\\GPACalculator.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/bin/Debug/netcoreapp3.1/GPACalculator.Commons.deps.json
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/bin/Debug/netcoreapp3.1/GPACalculator.Commons.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/bin/Debug/netcoreapp3.1/GPACalculator.Commons.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.AssemblyInfo.cs
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Commons/obj/Debug/netcoreapp3.1/GPACalculator.Commons.pdb
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\bin\Debug\netcoreapp3.1\GPACalculator.Commons.deps.json
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\bin\Debug\netcoreapp3.1\GPACalculator.Commons.dll
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\bin\Debug\netcoreapp3.1\GPACalculator.Commons.pdb
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.csproj.AssemblyReference.cache
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.AssemblyInfoInputs.cache
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.AssemblyInfo.cs
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.csproj.CoreCompileInputs.cache
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.dll
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Commons\obj\Debug\netcoreapp3.1\GPACalculator.Commons.pdb

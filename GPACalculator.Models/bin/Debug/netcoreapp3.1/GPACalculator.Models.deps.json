@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GPACalculator.Models/1.0.0": {
+        "dependencies": {
+          "GPACalculator.Commons": "1.0.0"
+        },
+        "runtime": {
+          "GPACalculator.Models.dll": {}
+        }
+      },
+      "GPACalculator.Commons/1.0.0": {
+        "runtime": {
+          "GPACalculator.Commons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPACalculator.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GPACalculator.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

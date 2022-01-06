@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\InMemoryRepository\" />
+    <None Remove="Repositories\InMemory\" />
+    <None Remove="Repositories\InMemory\Implementations\" />
+    <None Remove="Repositories\InMemory\Interface\" />
+    <None Remove="Repositories\File\" />
+    <None Remove="Repositories\File\Interface\" />
+    <None Remove="Repositories\File\Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\InMemory\" />
+    <Folder Include="Repositories\InMemory\Implementations\" />
+    <Folder Include="Repositories\InMemory\Interface\" />
+    <Folder Include="Repositories\File\" />
+    <Folder Include="Repositories\File\Interface\" />
+    <Folder Include="Repositories\File\Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GPACalculator.Models\GPACalculator.Models.csproj" />
+  </ItemGroup>
+</Project>

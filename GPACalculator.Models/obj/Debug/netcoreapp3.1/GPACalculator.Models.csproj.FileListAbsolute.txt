@@ -1,0 +1,26 @@
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/bin/Debug/netcoreapp3.1/GPACalculator.Models.deps.json
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/bin/Debug/netcoreapp3.1/GPACalculator.Models.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/bin/Debug/netcoreapp3.1/GPACalculator.Models.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/bin/Debug/netcoreapp3.1/GPACalculator.Commons.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/bin/Debug/netcoreapp3.1/GPACalculator.Commons.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.AssemblyInfo.cs
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.csproj.CopyComplete
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator.Models/obj/Debug/netcoreapp3.1/GPACalculator.Models.pdb
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\bin\Debug\netcoreapp3.1\GPACalculator.Models.deps.json
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\bin\Debug\netcoreapp3.1\GPACalculator.Models.dll
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\bin\Debug\netcoreapp3.1\GPACalculator.Models.pdb
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\bin\Debug\netcoreapp3.1\GPACalculator.Commons.dll
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\bin\Debug\netcoreapp3.1\GPACalculator.Commons.pdb
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.csproj.AssemblyReference.cache
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.AssemblyInfoInputs.cache
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.AssemblyInfo.cs
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.csproj.CoreCompileInputs.cache
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.csproj.CopyComplete
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.dll
+C:\Users\decag\Downloads\GPACalculator\GPACalculator\GPACalculator.Models\obj\Debug\netcoreapp3.1\GPACalculator.Models.pdb
